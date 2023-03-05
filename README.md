@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket6334&label=Profile%20views&color=0e75b6&style=flat" alt="aniket6334" /> </p>
 
-- 🌱 I’m currently learning **C and C++**
-
-- 💬 Ask me about **C**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **aniket030802@gmail.com**
 
